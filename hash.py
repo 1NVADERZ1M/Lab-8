@@ -18,10 +18,10 @@ blacklist = [
     "/mnt"
 ]
 
+root_dir = sys.argv[1]
+outfile = sys.argv[2]
 
-outfile = sys.argv[1]
-
-for dirpath, dirs, files in os.walk("./test"):
+for dirpath, dirs, files in os.walk(root_dir):
     for filename in files:
         skip = 0
         for item in blacklist:
