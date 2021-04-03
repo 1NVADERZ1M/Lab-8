@@ -1,0 +1,1 @@
+{'./test/hello.txt': ['2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824', '03/04/2021 07:53:21'], './test/var/hello3.txt': ['47ea70cf08872bdb4afad3432b01d963ac7d165f6b575cd72ef47498f4459a90', '03/04/2021 07:53:21'], './test/var/fun/hello5.txt': ['8dfe82d9a72ad831e48e524a38ad111f206ef08c39aa5847db26df034ee3b57d', '03/04/2021 07:53:21']}
